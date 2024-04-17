@@ -14,7 +14,9 @@ kubectl apply -f deployment.yaml --force
 
 
 finish task 
+
 finish task 
+
 finish task 
 
 
