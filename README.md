@@ -10,4 +10,12 @@ kubectl apply -f deployment.yaml
 
 or 
 
-kubectl apply -f deployment.yaml --force 
+kubectl apply -f deployment.yaml --force  
+
+
+finish task 
+finish task 
+finish task 
+
+
+error - ok  - wait 
